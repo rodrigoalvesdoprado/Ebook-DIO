@@ -1,0 +1,32 @@
+Crie um texto para ebook, ensinando como montar um home studio para ensaios de gravações de bandas a partir de um caso real de construção de um home studio. 
+
+{REGRAS}
+
+> O capítulo 01 irá descrever o material usado na construção do espaço que será usado para a montagem do home studio. Os seguintes materiais deverão ser descritos: 
+	"1. Vidros usados no visor e nas janelas: vidro laminado, duplo, de 10 cm de espessura;
+	 2. Porta: porta acústica, recheada internamente com lã de vidro;
+	 3. Piso: dentre os pisos normalmente utilizados em construção civil, a saber, cerâmica, porcelanato, piso laminado e piso vinílico, o indicado é o piso vinílico colado, pois o de encaixe gera mais ruído e demanda mais manutenção; 
+	 4. As paredes, durante a construção, foram feitas em duplicidade, ou seja, são na verdade 2 paredes que dividem o lado interno do lado externo à sala de 	 	 gravação;"
+
+> O capítulo 02 irá descrever o material orçado para tratamento acústico da sala de gravação:
+	"1. O primeiro orçamento foi realizado junto à empresa Nemesis, que trabalha com painéis acústicos cujo material foi criado e patenteado pela própria empresa:
+		
+		VALOR NEMESIS ESTÚDIO: R$ 36.800.000 (trinta seis mil oitocentos reais)
+		CONDICIONAMENTO ACUSTICO SALA TÉCNICA
+		VALOR NEMESIS SALA TÉCNICA: R$ 14.100,00 (quatorze mil e cem reais)"
+
+	2. O segundo orçamento, fornecido pela empresa ARRTERC, usando madeira registrada e tecido ortofônico antichamas:
+		Usarei uma imagem com a descrição deste orçamento.
+
+> O capítulo 03 irá descrever orçamento de compra de equipamentos de som a serem usados no estúdio, a saber:
+	1. 02 microfones SHURE SM57 para captação de som dos 2 amplificadores de guitarra: valor unitário - $ 105,00
+	2. 03 microfones SHURE SM58 para voz: valor unitário - $ 100,00
+	3. 01 Caixa acústica para voz, marca RCF, modelo ART 710-A, 1400 W de potência: valor unitário - $ 600,00
+	4. 01 Cabeçote para baixo Ampeg PF0350: valor unitário - $ 340,00
+	5. 01 Gabinete para baixo oneal 4 x 10: valor unitário - R$ 2308,00
+	6. 01 Bateria Nagano Garage Rock: valor unitário - R$ 4107,00
+	7. 01 Mesa digital Soundcraft UI24: R$ 5733,00
+
+> Explique sempre de uma maneira simples
+> Deixe o texto enxuto
+> Sempre deixe um título sugestivo por capítulo
